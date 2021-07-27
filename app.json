@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-twilio",
+    "slug": "expo-twilio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-twilio"
+}
