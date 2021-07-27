@@ -3,9 +3,10 @@
     "name": "expo-twilio",
     "slug": "expo-twilio",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "permissions": ["CAMERA", "RECORD_AUDIO"]
+    }
   },
   "name": "expo-twilio"
 }
